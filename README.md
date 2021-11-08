@@ -35,4 +35,4 @@ Live app can be found via Netify https://imageappv2.netlify.app/
   2. npm install (in root folder)
   3. npm install (in client folder for backend react app)
   4. npm run dev  
-     (start both ends concurrently, find script in package.json)
+     (start both ends concurrently. Find the script in package.json, may need to install "concurrently" https://www.npmjs.com/package/concurrently)
