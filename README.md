@@ -31,7 +31,7 @@ Live app can be found via Netify https://imageappv2.netlify.app/
 - Backend NodeJS and Express provide API to fetch data in JSON file in data folder
 
 ## Install
-  1. git clone https://github.com/yinadu513/ReactAPiApp.git
+  1. git clone https://github.com/yinadu513/ReactExpressAPI.git
   2. npm install
   3. npm run dev  
      (start both ends concurrently)
