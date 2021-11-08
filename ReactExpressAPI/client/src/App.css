@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.targetImgStyle {
+  background-color: #e8f4f8;
+}
+
+.details {
+  text-align: left;
+}
+
+.borderSize {
+  border-width: thick !important;
+}
+
+.previous:hover,
+.next:hover {
+  opacity: 0.6;
+}
+.not-allowed:disabled {
+  cursor: not-allowed;
+  pointer-events: all !important;
+}
