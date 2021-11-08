@@ -28,7 +28,7 @@ Live app can be found via Netify https://imageappv2.netlify.app/
 - When clicking on a thumbnail, the large image corresponding to that thumbnail should appear in the main window, along with the meta data about that template (ID, Cost, Description, Thumbnail File Name, Image File Name)
 - Per the reference styles and html, the thumbnail image should have a border when selected.
 
-- Backend NodeJS and Express provide API file in data folder
+- Backend NodeJS and Express provide API to fetch data in JSON file in data folder
 
 ## Install
   1. git clone https://github.com/yinadu513/ReactAPiApp.git
